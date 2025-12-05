@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# chroma
+chroma_db
+.qodo
+
+
 # Distribution / packaging
 .Python
 build/
