@@ -7,8 +7,6 @@ chromadb
 sentence-transformers
 huggingface-hub
 transformers
-pypdf
-gradio
 python-dotenv
 fastapi
 pydantic
